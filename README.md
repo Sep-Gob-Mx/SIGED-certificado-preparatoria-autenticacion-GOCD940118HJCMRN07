@@ -1,0 +1,2 @@
+# SIGED-certificado-preparatoria-autenticacion-GOCD940118HJCMRN07
+GOCD940118HJCMRN07
